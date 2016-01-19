@@ -12,5 +12,13 @@
     "generator"
   ],
   "author": "Andrew Nesbitt",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew/buzzfeed.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andrew/buzzfeed/issues"
+  },
+  "homepage": "https://github.com/andrew/buzzfeed#readme"
 }
